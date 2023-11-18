@@ -2,3 +2,4 @@
 man
 like
 town
+wife
